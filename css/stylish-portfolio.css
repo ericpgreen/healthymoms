@@ -365,3 +365,5 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.responsive-image{display:block; width:100%; margin-bottom:15px;}
